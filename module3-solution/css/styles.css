@@ -1,0 +1,31 @@
+body {
+    box-sizing: border-box;
+    background-color: #ebe7e5;
+}
+
+main.container-fluid {
+    margin: 0 5px;
+}
+
+.url-top {
+    display: block;
+}
+
+h1, a {
+    font-family: 'Kalam', cursive;
+}
+
+h3 {
+    font-family: 'Sansita Swashed', cursive;
+    text-decoration: underline;
+    color: rgb(30, 111, 187);
+}
+
+p {
+    font-family: 'Handlee', cursive;
+}
+
+hr {
+    width: 50%;
+    border-top: 1px solid blue
+}
